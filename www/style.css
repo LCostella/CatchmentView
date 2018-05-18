@@ -1,0 +1,48 @@
+label{
+	display:table-cell; 
+	text-align: center; 
+	vertical-align:middle;
+}
+                                   
+.numInput form-group 
+{ display:table-row;
+}
+.modal-header{
+	background-color: #3498db;
+}
+.modal-title{
+color: white;
+ }
+.um{width:50%; float: left;position: relative;}
+.dois{width:50%; float: left;position: relative;}
+#btn_probe{margin-left:0px; width:88%;text-align:left} 
+#btn_asn{margin-left:0px; width:88%;text-align:left} 
+#btn_location{margin-left:0px; width:88%;text-align:left}
+#captionProbe{border-radius:8px}
+#btn_probeTemp{margin-left:0px; width:88%;text-align:left} 
+#btn_asnTemp{margin-left:0px; width:88%;text-align:left} 
+#btn_locationTemp{margin-left:0px; width:88%;text-align:left}
+#captionProbeTemp{border-radius:8px}
+#action6x4{margin-right:10px; width:88%;}
+#actionTemp{margin-right:10px; width:88%;}
+.selectize-input items full has-options has-items{border-radius:20px;}
+ #final_text {
+text-align: center;
+}
+div.box-header {
+text-align: center;
+}
+
+#modal_bnt_probeTemp .modal-footer { display:none;}
+#modal_bnt_asnTemp .modal-footer { display:none;}
+#modal_bnt_locationTemp .modal-footer { display:none;}
+#modal_bnt_probe .modal-footer { display:none;}
+#modal_bnt_asn .modal-footer { display:none;}
+#modal_bnt_location .modal-footer { display:none;}
+#divLoad {width:100%;height:100%;}
+#loadImg{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;}
+
+
